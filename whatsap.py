@@ -9,7 +9,7 @@ print("Enter User")
 user = input()
 
 print("Enyer pas")
-pas =input()
+pas = input()
 
 os.system("figlet NOB HANTER")
 os.system("figlet Whatsapp")
